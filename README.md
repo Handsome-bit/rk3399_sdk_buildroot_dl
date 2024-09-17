@@ -1,0 +1,2 @@
+# rk3399_sdk_buildroot_dl
+rk3399官方sdk2020版本，buildroot中packages依赖包
